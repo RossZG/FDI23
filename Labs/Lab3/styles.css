@@ -1,0 +1,44 @@
+body {
+    background-color:rgb(0, 0, 0);}
+
+#contenedor {
+    width: 1300px;
+    background-color: #67646445;
+    margin: 0 auto;
+    padding: 30px;
+    height: 100%;}
+
+#header {
+    text-align: center;
+}
+
+#header h1 {
+    font-family: 'fangsong', cursive;
+    color: #ffffff;
+}
+
+#header ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+#header ul li a {
+    text-decoration: none;
+    background-color: #575757;
+    padding: 10px;
+    color: #ffffff; 
+}
+
+#header ul li a:hover {
+    background-color: #abababa3;
+    text-decoration: underline;
+}
+
+#video {
+    padding: 50px 0;
+    text-align: center;
+}
+
+
+
+
